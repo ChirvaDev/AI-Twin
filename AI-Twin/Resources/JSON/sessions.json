@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "date": "2025-05-01",
+    "title": "Work Goals Review",
+    "category": "career",
+    "summary": "Discussed progress and planned next steps for career growth."
+  },
+  {
+    "id": "2",
+    "date": "2025-05-03",
+    "title": "Managing Emotions",
+    "category": "emotions",
+    "summary": "Reflected on recent emotional events and coping strategies."
+  },
+  {
+    "id": "3",
+    "date": "2025-05-05",
+    "title": "Productivity Hacks",
+    "category": "productivity",
+    "summary": "Explored techniques to stay focused and efficient."
+  }
+]
+
